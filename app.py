@@ -1,5 +1,5 @@
 import streamlit as st
-import fitz  # PyMuPDF
+import fitz  
 from PIL import Image, ImageDraw
 import io
 import time
